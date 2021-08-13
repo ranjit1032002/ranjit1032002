@@ -1,4 +1,4 @@
-# नमस्ते (Namaste)👋 I'm Ranjit!
+# नमस्ते (Namaste)👋 I'm Ranjit!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 ## Welcome to my Github Profile <img align='right' src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="400">
 ### About me
 
