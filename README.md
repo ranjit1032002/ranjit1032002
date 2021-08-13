@@ -2,7 +2,7 @@
 ## Welcome to my Github Profile <img align='right' src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="400">
 ### About me
 
-<pre>
+
 
 ```python
 class Ranjit:
@@ -18,7 +18,7 @@ class Ranjit:
         
 me = Ranjit()
 ```
-</pre>
+
 
 <pre>
 <br />
