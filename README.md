@@ -13,6 +13,7 @@ class Ranjit:
             goal: "To become a Software Developer"
         }
         self.code=[C,C++,python,HTML,CSS,JavaScript]
+        self.tools=[React]
         self.interest=("Problem Solving")
         
         
