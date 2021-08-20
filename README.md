@@ -4,7 +4,7 @@
 
 
 
-```python
+```javascript
 class Ranjit:
     def __init__(self):
         self.info={
