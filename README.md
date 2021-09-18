@@ -34,7 +34,7 @@ I'm
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ranjit1032002&show_icons=true&theme=gotham" alt="Ranjit's GitHub Stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit1032002&layout=compact&theme=gotham" alt="Ranjit's GitHub Stats" />
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjit1032002&show_icons=true&theme=tokyonight_duo" alt="Ranjit's GitHub Stats"></p> -->
- <img src="https://activity-graph.herokuapp.com/graph?username=ranjit1032002&theme=react-dark">
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=ranjit1032002&theme=react-dark"> -->
  
 
 <a href="https://github.com/ranjit1032002">
