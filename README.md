@@ -34,13 +34,15 @@ I'm
 <a href="https://github.com/ranjit1032002" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit1032002&&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub Stats" />
 </a>
-</p>
+
 <a href="https://github.com/ranjit1032002">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjit1032002&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub Stats">
 </a>
+    
 <a href="https://github.com/ranjit1032002">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjit1032002&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub Stats">
-</a>
+</a>    
+</p>
 
 <p align="center" >
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
