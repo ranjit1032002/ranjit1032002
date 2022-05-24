@@ -15,9 +15,9 @@ Ranjit = {
             goal : "To become a Full Stack Web Developer"
            },
            
-         self_code : ["C","C++","HTML","CSS","JavaScript","PHP"],
-         self_tools : ["Bootstrap","React","Laravel"],
-         self_interest : ("Problem Solving")
+            self_code : ["C","C++","HTML","CSS","JavaScript","PHP"],
+            self_tools : ["Bootstrap","React","Laravel"],
+            self_interest : ("Problem Solving")
 }
 console.log(Ranjit);          
 ```
