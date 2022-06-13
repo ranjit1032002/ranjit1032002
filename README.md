@@ -1,8 +1,7 @@
 # नमस्ते (Namaste)👋 I'm Ranjit!
 
-<p align="center">
-    <img src="https://media.giphy.com/media/tkUvGwASt6bzI7yjma/giphy.gif" width="400">
-    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400">
+<p>
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1500" height="300">
 </p>
 
 ### About me
@@ -32,15 +31,15 @@ I'm
 ### My Github Stats
 <p align="center">
 <a href="https://github.com/ranjit1032002" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit1032002&&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit1032002&&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub Stats" />
 </a>
 
 <a href="https://github.com/ranjit1032002">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjit1032002&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub Stats">
+    <img  src="https://github-readme-stats.vercel.app/api?username=ranjit1032002&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub Stats">
 </a>
     
 <a href="https://github.com/ranjit1032002">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjit1032002&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub Stats">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ranjit1032002&show_icons=true&theme=tokyonight" alt="Ranjit's GitHub Stats">
 </a>    
 </p>
 
