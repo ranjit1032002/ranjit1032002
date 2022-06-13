@@ -1,7 +1,7 @@
 # नमस्ते (Namaste)👋 I'm Ranjit!
 
 <p>
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1500" height="300">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="1500" height="200">
 </p>
 
 ### About me
