@@ -9,13 +9,12 @@
 ```JavaScript
 Ranjit = { 
             information : {
-            institute : "Adamas University",
-            status : "Student",
-            goal : "To become a Full Stack Web Developer"
+            status : "Software Developer",
+            company: "Srijan Technologies"
            },
            
             self_code : ["C","C++","HTML","CSS","JavaScript","PHP"],
-            self_tools : ["Bootstrap","React","Laravel"],
+            self_tools : ["Bootstrap","React","Laravel","Drupal"],
             self_interest : ("Problem Solving")
 }
 console.log(Ranjit);          
@@ -23,7 +22,7 @@ console.log(Ranjit);
 <pre>
 <br />
 I'm
-🔭 Currently learning Web Development
+🔭 A Software Developer
 ⚡ Ask Me About Git Hub
 <br />
 </pre> 
