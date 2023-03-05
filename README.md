@@ -14,7 +14,7 @@ Ranjit = {
            },
            
             self_code : ["C","C++","HTML","CSS","JavaScript","PHP"],
-            self_tools : ["Bootstrap","React","Laravel","Drupal"],
+            self_tools : ["Bootstrap","React","Node","Laravel","Drupal"],
             self_interest : ("Problem Solving")
 }
 console.log(Ranjit);          
