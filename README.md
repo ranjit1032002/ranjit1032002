@@ -7,16 +7,109 @@
 ### About me
 
 ```JavaScript
-Ranjit = { 
-            information : {
-            status : "Software Developer",
-            company: "Srijan Technologies"
-           },
-           
-            self_code : ["C","C++","HTML","CSS","JavaScript","PHP"],
-            self_tools : ["Bootstrap","React","Node","Laravel","Drupal"],
-            self_interest : ("Problem Solving")
-}
+const Ranjit = {
+  information: {
+    name: "Ranjit Kumar Sahoo",
+    title: "Software Engineer",
+    experience: "4+ Years",
+    company: "5paisa Capital Limited",
+    previousCompanies: [
+      "Srijan Technologies (A Material+ Company)",
+      "Sun Dew Solutions Pvt. Ltd."
+    ],
+    location: "Kolkata, India"
+  },
+
+  languages: [
+    "PHP",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "C",
+    "C++"
+  ],
+
+  frameworks: [
+    "Drupal 7/8/9/10",
+    "Laravel",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "Bootstrap",
+    "jQuery",
+    "WordPress"
+  ],
+
+  databases: [
+    "MySQL",
+    "MongoDB"
+  ],
+
+  apis: [
+    "REST API",
+    "GraphQL",
+    "OAuth 2.0",
+    "JSON"
+  ],
+
+  devops: [
+    "Git",
+    "Docker",
+    "DDEV",
+    "Lando",
+    "Colima",
+    "Drush",
+    "GitLab CI/CD"
+  ],
+
+  performance: [
+    "Core Web Vitals",
+    "Lighthouse",
+    "WebPageTest",
+    "Varnish",
+    "Redis",
+    "CDN",
+    "Brotli Compression",
+    "WAF"
+  ],
+
+  tools: [
+    "VS Code",
+    "Jira",
+    "GitHub Copilot",
+  ],
+
+  strengths: [
+    "Drupal Development",
+    "REST API Development",
+    "Performance Optimization",
+    "Core Web Vitals Optimization",
+    "Production Issue Resolution",
+    "CMS Migration",
+    "Multi-site Architecture",
+  ],
+
+  interests: [
+    "Problem Solving",
+    "Backend Development",
+    "System Design",
+    "AI",
+    "Web Performance"
+  ],
+
+  achievements: {
+    cwv: "Improved CWV across 8+ websites",
+    performance: "Reduced TTFB by 35%",
+    production: "Resolved 50+ critical production issues"
+  },
+
+  profiles: {
+    github: "github.com/ranjit1032002",
+    linkedin: "linkedin.com/in/ranjit-kumar-sahoo",
+    drupal: "drupal.org/u/ranjit1032002"
+  }
+};
 console.log(Ranjit);          
 ```
 <pre>
